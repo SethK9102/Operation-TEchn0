@@ -1,5 +1,4 @@
 from random import *
-from pandas import *
 import os
 import time
 
